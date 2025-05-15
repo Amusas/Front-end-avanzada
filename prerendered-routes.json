@@ -1,0 +1,20 @@
+{
+  "routes": {
+    "/": {},
+    "/categories/create": {},
+    "/category-list": {},
+    "/login": {},
+    "/map": {},
+    "/my-reports": {},
+    "/profile": {},
+    "/register": {},
+    "/report-histories": {},
+    "/report-list-admin": {},
+    "/report-summary": {},
+    "/report/new": {},
+    "/reset-password": {},
+    "/user/edit": {},
+    "/user/edit/password": {},
+    "/validate-account": {}
+  }
+}
